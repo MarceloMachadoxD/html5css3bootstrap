@@ -1,0 +1,74 @@
+body{
+    background:  rgb(18, 32, 32);
+    margin-left: 25px;
+}
+
+header{
+    margin-top: 60px;
+    
+}
+
+a{
+    color: greenyellow;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: rgb(55, 158, 55);
+    font-style: bold; 
+    size: 120%;
+
+}
+
+ul{
+    margin-top: 0px;
+}
+
+li{
+    display: inline;
+
+}
+
+h1{
+    color: rgb(195, 206, 194);
+    margin-left: 5px;
+
+}
+
+h2{
+    font-family: sans-serif;
+    color: rgb(211, 209, 219);
+    margin-left: 10px;
+
+}
+
+p{
+    font-size: large;
+    margin-left: 15px;
+    margin-bottom: 3px;
+    color: white;
+}
+
+div{
+    background-color:rgba(18, 30, 32, 0.555);
+
+}
+
+.img_contato {
+ border: 0px;
+ margin: 0px;
+ padding: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ font-size:0px;
+ clear: both;
+
+}
+
+footer{
+ margin-top: 60px;
+ margin-bottom: 30px;
+
+
+}

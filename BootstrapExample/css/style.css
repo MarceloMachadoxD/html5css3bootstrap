@@ -1,0 +1,67 @@
+body{
+    background:  rgb(188, 235, 213);
+    font: 20px Arial, sans-serif;
+
+}
+
+.navbar{
+    background-color:  rgb(147, 228, 190);
+
+
+}
+
+
+
+.margin{
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+
+
+}
+
+
+
+a{
+    color: rgb(89, 143, 8);
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: rgb(49, 214, 49);
+    text-decoration: none;
+    font-style: bold; 
+    size: 120%;
+
+}
+
+.produto-sess{
+    background-color:  rgb(163, 240, 204);
+    color: rgb(2, 97, 2);
+
+
+}
+
+
+.servico-sess{
+    background-color:  rgb(188, 235, 213);
+    color: rgb(2, 97, 2);
+
+
+}
+
+.contato-sess{
+    background-color:  rgb(163, 240, 204);
+    color: rgb(2, 97, 2);
+
+
+
+
+}
+
+.footer-sess{
+    background-color: rgb(1, 32, 1);
+    color: whitesmoke;
+
+}
